@@ -1,0 +1,6 @@
+{   
+    "baseUrl":"https://babbangona.com",
+    "chromeWebSecurity": false,
+    "watchForFileChanges":false,
+    "pageLoadTimeout":100000
+}
